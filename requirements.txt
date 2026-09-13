@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+face-recognition
+pandas
+numpy
+streamlit-webrtc
+av
+Pillow
