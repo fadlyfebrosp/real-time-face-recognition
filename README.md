@@ -560,35 +560,20 @@ Potential improvements for future versions:
 
 ---
 
-## Screenshots
 
-Add application screenshots to the repository:
-
-```text
-screenshots/
-├── dashboard.png
-├── registration.png
-└── recognition.png
-```
-
-Then display them in this README:
-
-```markdown
 ## Screenshots
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./dashboard.png)
 
 ### Face Registration
 
-![Face Registration](screenshots/registration.png)
+![Face Registration](./registration.png)
 
 ### Real-Time Recognition
 
-![Real-Time Recognition](screenshots/recognition.png)
-```
-
+![Real-Time Recognition](./recognition.png)
 ---
 
 ## Author
